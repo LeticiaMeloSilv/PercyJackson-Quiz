@@ -5,6 +5,6 @@
   - https://semideusaany.blogspot.com/2020/08/teste-qual-seria-seu-parente-divino.html
 ------------
 figma- https://www.figma.com/file/JpgTEsejGAag8KerEqScqj/Untitled?type=design&node-id=11%3A9&mode=design&t=vDqFlBO9yO9QTugp-1
-![tela inicial](https://github.com/LeticiaMeloSilv/PercyJackson_Quiz/assets/123740554/008764ef-a10e-41eb-8f21-c8a21e7c3930)
-![tela do Quiz](https://github.com/LeticiaMeloSilv/PercyJackson_Quiz/assets/123740554/38def078-22db-4fd8-92c1-b1fee560770e)
 
+![tela inicial](https://github.com/LeticiaMeloSilv/PercyJackson-Quiz/assets/123740554/c4b5fa11-1a03-40c1-8ad3-c6ff33bc021a)
+![tela do Quiz](https://github.com/LeticiaMeloSilv/PercyJackson-Quiz/assets/123740554/0e7a7049-a2f4-4b4b-ad21-1544f011caf2)
